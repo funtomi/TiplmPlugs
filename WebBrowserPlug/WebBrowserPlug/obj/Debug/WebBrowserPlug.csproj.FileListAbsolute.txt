@@ -1,0 +1,7 @@
+E:\2018\Code2\WebBrowserPlug\Export\WebBrowserPlug.dll
+E:\2018\Code2\WebBrowserPlug\Export\WebBrowserPlug.pdb
+E:\2018\Code2\WebBrowserPlug\WebBrowserPlug\obj\Debug\WebBrowserPlug.csprojResolveAssemblyReference.cache
+E:\2018\Code2\WebBrowserPlug\WebBrowserPlug\obj\Debug\WebBrowserPlug.dll
+E:\2018\Code2\WebBrowserPlug\WebBrowserPlug\obj\Debug\WebBrowserPlug.pdb
+E:\2018\Code2\WebBrowserPlug\WebBrowserPlug\obj\Debug\WebBrowserPlug.WebBrowserCtrl.resources
+E:\2018\Code2\WebBrowserPlug\WebBrowserPlug\obj\Debug\WebBrowserPlug.csproj.GenerateResource.Cache
